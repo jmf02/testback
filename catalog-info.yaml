@@ -19,5 +19,5 @@ spec:
     email: dt02@kk.ad
   children: []
   members:
-    - dt02
-    - dt06
+    - user:default/dt06
+
