@@ -11,7 +11,7 @@ spec:
   profile:
     displayName: fttt-name
     # email: ""
-  creator: user:default/dt02
+  creator: user:default/jmf03
   gitlab_group: jmfgrou/fttt-name
   onead_t1_group: yyyyyyyyyyyyy
   owner:
@@ -19,5 +19,5 @@ spec:
     email: dt02@kk.ad
   children: []
   members:
-    - user:default/dt06
+    - user:default/jmf05
 
