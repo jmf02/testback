@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-website2
+spec:
+  type: website
+  lifecycle: experimenta2
+  owner: group:default/mesusers
+  system: examples
+  providesApis: [example-grpc-api]
+  dependencyOf : 
+    - cloudproject:default/ftttt-name
