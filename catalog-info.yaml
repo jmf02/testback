@@ -18,3 +18,5 @@ spec:
   members:
     - jmf02
     - bouclier
+  dependencyOf:
+    - cloudproject:default/ftttt-name
