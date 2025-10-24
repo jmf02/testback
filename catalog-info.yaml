@@ -1,16 +1,13 @@
 apiVersion: safran.backstage.io/v1alpha1
-
 kind: CloudProject
-
 metadata:
   name: ftttt-name
-  description: a poc project for testing 
+  description: a poc project for testing
   gitlab_group_id: 58866
-  company_name: xxxx 
+  company_name: xxxx
 spec:
   profile:
     displayName: fttt-name
-    # email: ""
   creator: user:default/jmf03
   gitlab_group: jmfgrou/fttt-name
   onead_t1_group: yyyyyyyyyyyyy
@@ -22,6 +19,3 @@ spec:
     - jmf05
     - jmf02
     - bouclier
-
-
-
