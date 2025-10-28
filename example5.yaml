@@ -9,5 +9,4 @@ spec:
   system: examples
   providesApis:
     - example-grpc-api
-  dependencyOf:
-    - cloudproject:default/ftttt-name
+  dependencyOf: []
