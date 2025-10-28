@@ -7,4 +7,7 @@ spec:
   lifecycle: experimental
   owner: group:default/mesusers
   system: examples
-  providesApis: [example-grpc-api]
+  providesApis:
+    - example-grpc-api
+  dependencyOf:
+    - cloudproject:default/ftttt-name
