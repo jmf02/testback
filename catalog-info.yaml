@@ -18,6 +18,5 @@ spec:
   members:
     - bouclier
     - EPEE
-    - jmf03
     - jmf02
     - smitth
