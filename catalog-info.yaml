@@ -1,7 +1,7 @@
 apiVersion: safran.backstage.io/v1alpha1
 kind: CloudProject
 metadata:
-  name: ftttt-name
+  name: ftttt-namekkk
   description: a poc project for testing jm
   gitlab_group_id: 58866
   company_name: xxxx
