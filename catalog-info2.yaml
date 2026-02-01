@@ -1,0 +1,24 @@
+apiVersion: safran.backstage.io/v1alpha1
+kind: CloudProject
+metadata:
+  name: amejjjjjjj
+  description: a poc project for testing jm
+  gitlab_group_id: 58866
+  company_name: xxxx
+spec:
+  profile:
+    displayName: amejjjjjjj
+  creator: user:default/jmf02
+  gitlab_group: jmfgrou/fttt-name
+  onead_t1_group: xxxxxxxxxxxxx
+  owner:
+    name: user:default/dt5465452
+    email: jmf02@gmail.com
+  children: []
+  members:
+    - bouclier
+    - EPEE
+    - jmf02
+    - jmf03
+    - jmf05
+    - smitth
