@@ -12,8 +12,8 @@ spec:
   gitlab_group: jmfgrou/fttt-name
   onead_t1_group: xxxxxxxxxxxxx
   owner:
-    name: user:default/jmf03
-    email: dt02@kk.ad
+    name: user:default/dt5465452
+    email: jmf02@gmail.com
   children: []
   members:
     - bouclier
