@@ -8,12 +8,12 @@ metadata:
 spec:
   profile:
     displayName: fttt-name
-  creator: user:default/dt5465452
+  creator: user:default/dt02
   gitlab_group: jmfgrou/fttt-name
   onead_t1_group: xxxxxxxxxxxxx
   owner:
-    name: user:default/dt5465452
-    email: jmf02@gmail.com
+    name: user:default/dt02
+    email: jmf03@hotmail.com
   children: []
   members:
     - bouclier
