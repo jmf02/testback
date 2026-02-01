@@ -8,11 +8,11 @@ metadata:
 spec:
   profile:
     displayName: fttt-namekkk
-  creator: user:default/dt02
+  creator: dt02
   gitlab_group: jmfgrou/fttt-name
   onead_t1_group: xxxxxxxxxxxxx
   owner:
-    name: user:default/dt02
+    name: dt02
     email: jmf03@hotmail.com
   children: []
   members:
